@@ -167,10 +167,10 @@ plt.show()
 
 > I'm always open to discussing data analytics, project collaborations, or any other opportunities. Feel free to reach out to me through any of the channels below:
 >
-> LinkedIn: [Anthony Thai](https://www.linkedin.com/in/anthony-thai-a61550108/)
+> LinkedIn: [Wendy Liang](https://www.linkedin.com/in/wendyliang38/)
 >
-> Email: athai1196@gmail.com
+> Email: wendybliang38@gmail.com
 >
-> Portfolio: [GitHub](https://github.com/athai1196/AnthonyThai)
+> Portfolio: [GitHub](https://github.com/wendifultimes/wendy-liang)
 >
 > If you have any questions or feedback regarding this project, please don't hesitate to open an issue or submit a pull request.
